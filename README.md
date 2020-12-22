@@ -1,8 +1,6 @@
 ### Hey, hello! I'm Thalisson. 👋
 ___
 
-First, I used to be a **"full stack developer"**, but in the past years 
-
 I'm from Brazil, currently working at [Webjump](https://webjump.com.br/) and 100% remotely.
 
 In the last few years I focused on backend development, mainly in [Laravel](https://laravel.com/).
