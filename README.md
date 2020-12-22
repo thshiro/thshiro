@@ -11,10 +11,18 @@ ___
 ### :hammer: Development Toolbelt
 
 <p>
-  <img src="https://code.visualstudio.com/apple-touch-icon.png" height="36" title="VS Code" />
-  <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/59e383122c7d3a40f0ed78e2/images/5ea7218d2c7d3a7e9aebb503/logo-32x--insomnia-core.png" height="36" title="Insomnia" />
-  <img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-head.png" height="36" title="DBeaver" />
-  <img src="https://static.opensuse.org/favicon.svg" height="36" title="OpenSuse Tumbleweed" />
+  <a href="https://code.visualstudio.com">
+    <img src="https://code.visualstudio.com/apple-touch-icon.png" height="36" title="VS Code" />
+  </a>
+  <a href="https://insomnia.rest/">
+    <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/59e383122c7d3a40f0ed78e2/images/5ea7218d2c7d3a7e9aebb503/logo-32x--insomnia-core.png" height="36" title="Insomnia" />
+  </a>
+  <a href="https://dbeaver.io/">
+    <img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-head.png" height="36" title="DBeaver" />
+  </a>
+  <a href="https://www.opensuse.org/#Tumbleweed">
+    <img src="https://static.opensuse.org/favicon.svg" height="36" title="OpenSuse Tumbleweed" />
+  </a>
 </p>
 
 ___
