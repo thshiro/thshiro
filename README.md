@@ -34,7 +34,7 @@ ___
     <img src="https://tailwindcss.com/favicon-32x32.png" height="42" title="Tailwind CSS" />
   </a>
   <a href="https://mariadb.com">
-    <img src="https://mariadb.org//wp-content/themes/twentynineteen-child/icons/logo_seal.svg" height="42" tilte="MariaDB" />
+    <img src="https://mariadb.org//wp-content/themes/twentynineteen-child/icons/logo_seal.svg" height="42" title="MariaDB" />
   </a>
 </p>
 
