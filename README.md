@@ -1,7 +1,7 @@
 ### Hey, hello! I'm Thalisson. 👋
 ___
 
-I'm from Brazil, currently working at [Webjump](https://webjump.com.br/) and 100% remotely.
+I'm from Brazil, currently working at [DevSquad](https://devsquad.com/) and 100% remotely.
 
 In the last few years I focused on backend development, mainly in [Laravel](https://laravel.com/).
 
