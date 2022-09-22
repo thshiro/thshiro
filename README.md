@@ -1,4 +1,4 @@
-### Hey, what's up ?! 👋
+### Hey, what's up?! 👋
 ___
 
 I'm from Brazil, currently working at [DevSquad](https://devsquad.com/) and 100% remotely.
