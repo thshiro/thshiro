@@ -3,7 +3,7 @@ ___
 
 I'm from Brazil, currently working at [DevSquad](https://devsquad.com/) and 100% remotely.
 
-In the last few years I focused on backend development, mainly in PHP with [Laravel](https://laravel.com/). I also know know JavaScript and a little bit of Vue.js, but it's not but strong suit, tho.
+In the last few years, I focused on backend development, mainly in PHP with [Laravel](https://laravel.com/). I also know JavaScript and a little bit of Vue.js, but it's not my strong suit, tho.
 
 To know more, follow me on [Linkedin](https://www.linkedin.com/in/thalissonbarbosa/).
 
